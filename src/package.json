@@ -30,11 +30,16 @@
         "NativeScript",
         "JavaScript",
         "Android",
-        "iOS"
+        "iOS",
+        "Popup"
     ],
     "author": {
         "name": "Osei Fortune",
         "email": "fortune.osei@yahoo.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/triniwiz/nativescript-popup"
     },
     "contributors": [
         {
